@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Pronostiques entre amis</string>
+    <string name="email_format_error">"Error email format"</string>
+</resources>
